@@ -8,7 +8,7 @@
     <img src="assets/github.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Furniture Store</h3>
+  <h3 align="center">Treine.me</h3>
   <p>Made by celinxt</p>
 
   <p align="center">
