@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p> A simple landing page about gym made with HTML and CSS. </p>
+<p> A simple landing page about gym made, with HTML and CSS. </p>
 
 <p align="center"><img src = "assets/project.png" alt="Project image" height="400"></p>
 <br><br>
